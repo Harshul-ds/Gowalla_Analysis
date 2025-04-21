@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+
+# Output files
+output_plots/
+
+# Data files (often large and not version controlled)
+raw_data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS generated files
+.DS_Store
